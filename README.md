@@ -9,9 +9,8 @@ This is a ERP system with React , that can show dashboard which contains product
 
 
 
-      cd ERP_frontend
-   
-      npm install
+     cd "ERP frontend"
+     npm install
 
 
 
